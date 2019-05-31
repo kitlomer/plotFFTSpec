@@ -14,4 +14,4 @@ f = -fs/2:df:fs/2-df;
 subplot(2,1,2)
 plot(f,abs(X)/N)
 ylabel('Frequency (in hertz)')
-xlabel('Sample Number')
+xlabel('Magnitude Response')
